@@ -1,0 +1,10 @@
+{
+  "Company": "chrisfreeman Company",
+  "Country": "US",
+  "LastName": "chrisfreeman",
+  "Email": "chris.freeman@gsa.gov",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
