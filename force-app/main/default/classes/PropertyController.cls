@@ -2,6 +2,7 @@ public with sharing class PropertyController {
 
     @AuraEnabled
     public static PropertyPagedResult findAll(String searchKey, Decimal minPrice, Decimal maxPrice, Decimal pageNumber) {
+			String test = 'Testing changes to push to scratch ORG';
         Integer pageSize = 8;
         String key = '%' + searchKey + '%';
         Integer offset = ((Integer)pageNumber - 1) * pageSize;
