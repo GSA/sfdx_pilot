@@ -1,8 +1,8 @@
 {
-  "Company": "Chris F. Company",
+  "Company": "Your Company",
   "Country": "US",
-  "LastName": "Freeman",
-  "Email": "Chris.Freeman@example.com",
+  "LastName": "lastname",
+  "Email": "yourname@example.com",
   "Edition": "Developer",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
