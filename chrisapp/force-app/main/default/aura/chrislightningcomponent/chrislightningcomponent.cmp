@@ -1,5 +1,0 @@
-<aura:component implements="flexipage:availableForAllPageTypes">
-
-    <h1>Hello World, Welcome to Chris Freeman's App!!!</h1>
-
-</aura:component>	
